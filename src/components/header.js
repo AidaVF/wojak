@@ -15,11 +15,7 @@ function Header() {
     {
       link:"#roadmap",
       title:"Roadmap"
-    },
-    {
-      link:"#",
-      title:"Whitepaper"
-    },
+    }
   ]
   return (
     <div className="w-full bg-[#ffa500] h-24 flex justify-between text-white items-center px-8">
