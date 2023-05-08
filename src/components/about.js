@@ -3,7 +3,7 @@ function About() {
   <div id="about">
     <div className="w-full bg-[#ffa500]">
       <div className="container mx-auto py-16">
-        <div className="grid grid-cols-2 gap-16">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-16">
           <div className="flex flex-col gap-4">
             <div className="rounded-full bg-white text-2xl font-bold py-2 px-5 cursor-pointer hover:bg-[#bada55]">Hyper-deflationary</div>
             <div className="rounded-full bg-white text-2xl font-bold py-2 px-5 cursor-pointer hover:bg-[#bada55]">Daily 0.25% Wojak Rewards</div>
